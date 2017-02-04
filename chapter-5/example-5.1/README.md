@@ -10,4 +10,11 @@
 ```
 $ python main.py
 ```
-Plots the estimated value function.
+Estimates the value function ( 500,000 iterations ) and plots it.
+
+## Plots
+Plot of V(s) when the player has **no usable aces**
+![](plots/plot_V_usable_ace_=_0.png)
+
+Plot of V(s) when the player has a **usable ace**
+![](plots/plot_V_usable_ace_=_1.png)
